@@ -32,14 +32,14 @@
 
 
 
-![myImage](./home.png)
+![](./home.jpg)
 
-![myImage](./contact_screen.png)
+![](./contact_screen.jpg)
 
-![myImage](./Edit_contact.png)
+![](./Edit_contact.jpg)
 
-![myImage](./Delete_Contact_option.png)
+![](./Delete_Contact_option.jpg)
 
-![myImage](./Add_new_contact.png)
+![](./Add_new_contact.jpg)
 
-![myImage](./Add_profile_Picture.png)
+![](./Add_profile_Picture.jpg)
