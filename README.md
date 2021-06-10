@@ -27,3 +27,19 @@
 ## Troubleshooting
 
 * if things don't work, clean up all your build and node_modules folders, npm install and rebuild
+
+## Screens of the APP
+
+
+
+![myImage](./home.png)
+
+![myImage](./contact_screen.png)
+
+![myImage](./Edit_contact.png)
+
+![myImage](./Delete_Contact_option.png)
+
+![myImage](./Add_new_contact.png)
+
+![myImage](./Add_profile_Picture.png)
