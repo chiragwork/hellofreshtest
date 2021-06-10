@@ -31,15 +31,25 @@
 ## Screens of the APP
 
 
-
+Home Screen
 ![myImage](./home.png)
+
+Contact Screen
 
 ![myImage](./contact_screen.png)
 
+Edit Contact Screen
+
 ![myImage](./Edit_contact.png)
+
+Delete Contact Screen
 
 ![myImage](./Delete_Contact_option.png)
 
+Add New Contact Screen
+
 ![myImage](./Add_new_contact.png)
+
+Add Profile Picture Screen
 
 ![myImage](./Add_profile_Picture.png)
